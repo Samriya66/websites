@@ -1,0 +1,152 @@
+/* login */
+.log{
+    margin-left: 100px;
+    font-size: small;
+    padding:4px 40px;
+    border-radius: 0%;
+
+    /*navbar  */
+}
+.nav-link{
+    font-size:small;
+    font-weight: bold;
+    color:white;
+    margin-right: 50px;
+}
+.nav-link:hover{
+    color:#e7305b;
+
+}
+/* background img */
+header{
+    background-image: url(images/bgf.jpg);
+}
+h3{
+    color:white;
+}
+
+    
+/* sign up button */
+ .sign{
+     
+     padding-left:60px;
+     padding-right: 60px; margin-bottom: 100px;
+     margin-left: 80px;
+     border-radius: 0%;
+       
+}
+/* pink div */
+.pink{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #e7305b;
+    text-align: center;
+    padding:50px 50px;
+}
+/* white div */
+.white{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:white;
+    margin-top: 30px;
+}
+/* bg colr of search form */
+.bg{
+    background-color:rgb(214, 209, 209);
+    border: transparent;
+    border-radius: 0%;
+}
+/* signup */
+.su{
+    border-radius: 0%;
+    border: transparent;
+    background-color:white;
+}
+/* search btn */
+.sr{
+    border-radius: 0%;
+    border-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* jumb text */
+.display-4{
+    text-align: center;
+}
+/* background img */
+header {
+  background-image: url('images/earth.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0;
+}
+/* jumbotron  */
+.jumbotron{
+    background: transparent;
+}
+
+
+/* courses grids */
+.courses{
+    background-color:powderblue;
+    text-align: center;
+    padding-top: 100px;
+}
+
+/* grid imgs */
+.card-img-top{
+    width: 17rem;
+    height: 200px;
+}
+.card{
+    background: transparent;
+    border: none;
+
+}
+.grid{
+    margin-top: 50px;
+    padding-bottom: 50px;
+    
+}
+/* footer */
+.foot{
+    background-color:#b8de6f;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ex-links{
+    text-align: left;
+}
+.aboutus{
+    text-align: left;
+}
+.points ul li:before {
+    content: '✓';
+}
+h6{
+    margin-left: 40px;
+}
+.lead{
+    margin-left: 100px;
+    font-size: small;
+}
+span{
+    color: #e7305b;
+}
+
+body{
+     font-family: 'Cinzel', serif;
+     font-size: small;
+}

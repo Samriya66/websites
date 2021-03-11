@@ -1,0 +1,191 @@
+/* !!!!!!breadcrumbs!!!!!!!! */
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color:transparent;
+  }
+  ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+    color:#e7305b;
+  }
+  ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: white;
+    content: "/\00a0";
+  }
+  ul.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+  }
+  ul.breadcrumb li a:hover {
+    color:#e7305b;
+    text-decoration: underline;
+  }
+/* pink div */
+.pink{
+    
+  
+    background-color: #e7305b;
+    text-align: center;
+    padding:40px 20px;
+     margin: -96px auto 50px auto;
+    width:800px;
+    height:150px;
+    
+    z-index: 2000;
+    
+}
+/* white div */
+.white{
+    
+    background-color:transparent;
+   
+}
+.h4d{
+    text-align:center;
+    color:white;
+    background-color:#e7305b;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    width:400px; 
+    border-bottom: black;
+
+}
+.bg{
+    border-radius: 0;
+    height: 40px;
+    font-size: small;
+}
+.sr{
+    color:white;
+    background-color: black;
+    font-size: small;
+    border-radius: 0;
+}
+/* background img */
+.bk {
+    background-image: url('images/booksbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+    z-index: 999;
+  }
+  /* jumbotron  */
+  .jumbotron{
+      background: transparent;
+  }
+  .log{
+    margin-left: 100px;
+    font-size: small;
+    padding:4px 40px;
+    border-radius: 0%;
+
+    /*navbar  */
+}
+.nav-link{
+    font-size:small;
+    font-weight: bold;
+    color:white;
+    margin-right: 50px;
+}
+/* footer */
+.foot{
+    background-color:#b8de6f;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ex-links{
+    text-align: left;
+}
+.aboutus{
+    text-align: left;
+}
+.points ul li:before {
+    content: '✓';
+}
+h6{
+    margin-left: 40px;
+}
+.lead{
+    margin-left: 100px;
+    font-size: small;
+}
+span{
+    color: #e7305b;
+}
+
+.nav-link:hover{
+    color:#e7305b;
+
+}
+h3{
+    color:white;
+} 
+/* !!!!!!!!!!!registration form!!!!!!!! */
+.rtp{
+    background-color: #e7305b;
+    color:white;
+    padding: 50px 30px;
+    text-align:left;
+    margin: 100px 10px;
+}
+.rtp h2{
+    margin-bottom: 40px;
+}
+.rtp button{
+    background-color: #e7305b;
+    margin-left: 30px;
+    border-radius: 0;
+    border: transparent;
+    font-size: small;
+    width:100px;
+    height: 40px;
+
+}
+.rtp button:hover{
+    background-color: #e7305b ;
+}
+.rtw{
+    background-color: white;
+    padding: 40px 30px;
+}
+.yn{
+    margin: 30px 30px;
+    font-size: small;
+    background-color: gainsboro;
+    border-radius: 0;
+    border: transparent;
+    width:500px;
+    padding: 20px 20px 30px 20px;
+}
+
+/* contact info */
+.cont{
+    margin-top: 150px;
+    line-height: 30px;
+}
+.add{
+    margin-top: 100px;
+}
+.cont h3{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-decoration: underline;
+    font-weight: bolder;
+    color:black;
+    
+}
+.cont h5{
+    margin-top: 50px;
+    color:#e7305b;
+}
+.icon a{
+    padding: 10px;
+}
+body{
+     font-family: 'Cinzel', serif;
+     font-size: small;
+}
